@@ -1,4 +1,3 @@
-<h1>Projeto TCC</h1>
-<h2>Corujário</h2>
+<h1>Projeto TCC - Corujário</h1>
 <br>
 <p>[...]</p>
